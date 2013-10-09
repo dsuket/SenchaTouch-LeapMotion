@@ -1,6 +1,6 @@
 SenchaTouch-LeapMotion
 ======================
-This library makes it possible to use Leap Motion on Sencha Touch.
+This class makes it possible to use Leap Motion on Sencha Touch.
 
 You can operate client web page for Leap Motion.
 
